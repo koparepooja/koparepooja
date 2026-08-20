@@ -4,8 +4,8 @@
 
   <h1>✨ Hi there, I'm Pooja 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Systems;Scaling+Kubernetes+Clusters;Automating+SDLC+with+CI%2FCD;Infrastructure+as+Code+Evangelist" />
-</div>
+ <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Systems;Scaling+Kubernetes+Clusters;Automating+SDLC+with+CI%2FCD;Infrastructure+as+Code+Evangelist" />
+</div> -->
 
 ---
 
