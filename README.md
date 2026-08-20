@@ -4,8 +4,8 @@
 
   <h1>✨ Hi there, I'm Pooja 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Systems;Scaling+Kubernetes+Clusters;Automating+SDLC+with+CI%2FCD;Infrastructure+as+Code+Evangelist" />
-</div>
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Systems;Scaling+Kubernetes+Clusters;Automating+SDLC+with+CI%2FCD;Infrastructure+as+Code+Evangelist" />
+</div> -->
 
 ---
 
@@ -44,6 +44,11 @@
 | ![](https://img.shields.io/badge/Scripting-455A64?style=flat-square) | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
+---
+## 🎓 Certifications
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws)](https://www.credly.com/badges/7a82b25d-c3c6-462c-8376-f923ca7e9a68/linked_in?t=t3chj5)
+
+---
 
 
 ## 🤝 Connect With Me
@@ -57,20 +62,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </div>
-
-
-
-<!--
-**koparepooja/koparepooja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
