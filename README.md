@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Pooja%20Kopare&fontSize=60&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Architect%20%&descAlignY=65&descAlign=50" />
 
