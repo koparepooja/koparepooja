@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Pooja%20Kopare&fontSize=80&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Architect%20%7C%20SRE&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Pooja%20Kopare&fontSize=70&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Architect%20%7C%20SRE&descAlignY=65&descAlign=50" />
 
   <h1>✨ Hi there, I'm Pooja 👋</h1>
 
